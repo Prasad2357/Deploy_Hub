@@ -4,8 +4,8 @@
 
 This project is a clone of Vercel, allowing users to create projects by submitting GitHub repository URLs. It uses a Node.js backend with Express, AWS ECS for task management, Redis for messaging, and Socket.IO for real-time updates. The frontend is a simple web interface built with HTML, CSS, and JavaScript.
 
-![DeployHub]("D:\Projects\Deploy_Hub\Images\Deploy-Hub.png") 
-![Deployed Project](""D:\Projects\Deploy_Hub\Images\Deployed-Project.png"")
+![DeployHub](https://github.com/Prasad2357/Deploy_Hub/raw/main/Images/Deploy-Hub.png) 
+![Deployed Project](https://github.com/Prasad2357/Deploy_Hub/raw/main/Images/Deployed-Project.png)
 
 ## Features
 
